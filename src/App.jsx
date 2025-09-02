@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import React from 'react'
-import Welcome from "./Pages/Welcome";
-import Login from "./Pages/Login";
-import Register from "./Pages/Register";
-import Account from "./Pages/Account";
+import Welcome from "./pages/Welcome";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
+import Account from "./pages/Account";
 import { UserProvider } from "./Context/UserContext";
 
 function App() {
