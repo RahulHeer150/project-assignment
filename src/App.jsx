@@ -6,6 +6,7 @@ import Register from "./pages/Register";
 import Account from "./pages/Account";
 import { UserProvider } from "./context/UserContext"; 
 
+
 function App() {
   return (
     <Router>
